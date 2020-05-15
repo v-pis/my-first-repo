@@ -10,15 +10,15 @@ Looking for DevOps Enginner
 
 ### My Skills:
 
- -Linux
- -Cisco
- -Network Protocols
- -OSI
- -Network Essensial
- -Bash scripting
- -Git
- -GitHub
- -Ubuntu
+- Linux
+- Cisco
+- Network Protocols
+- OSI
+- Network Essensial
+- Bash scripting
+- Git
+- GitHub
+- Ubuntu
 
 ### Contacts:
 
